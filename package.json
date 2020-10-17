@@ -1,5 +1,5 @@
 {
-  "name": "generator-vue",
+  "name": "generator-vue-test",
   "version": "1.0.0",
   "description": "vue脚手架",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/2418815069/generator-vue-cli.git"
   },
-  "author": "liufang",
+  "author": "chyiyuluo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/2418815069/generator-vue-cli/issues"
